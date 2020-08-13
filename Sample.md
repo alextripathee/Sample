@@ -102,4 +102,25 @@ ___
 * [x] Task 2
 * [ ] Task 3
 
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/UJoD2cRlF9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=UJoD2cRlF9c)
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/UJoD2cRlF9c/maxresdefault.jpg "Football Match")](https://www.youtube.com/watch?v=UJoD2cRlF9c)
+
+<!-- Math Expression -->
+
+$$
+\frac{arg 1}{arg 2} \\
+x^2\\
+e^{i\pi}\\
+A_i\\
+B_{ij}\\
+\sqrt[n]{arg}	
+$$
+
+
+<!-- Greek Letter -->
+
+$$
+\omega = 2\pi f \\
+f = \frac{c}{\lambda}\\
+\lambda_0=\theta^2+\delta\\
+\Delta\lambda = \frac{1}{\lambda^2}
+$$
