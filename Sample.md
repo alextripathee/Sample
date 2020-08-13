@@ -101,3 +101,5 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/UJoD2cRlF9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=UJoD2cRlF9c)
